@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/titan_lmi.mk
+    $(LOCAL_DIR)/evolution_lmi.mk
 
 COMMON_LUNCH_CHOICES := \
-    titan_lmi-userdebug
+    evolution_lmi-userdebug

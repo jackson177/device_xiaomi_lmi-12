@@ -19,7 +19,9 @@
 <resources>
 
     <!-- Allow CornerHandleView and PathSpecCornerPathRenderer to decouple from corner radius -->
-    <dimen name="config_rounded_mask_size">140px</dimen>
+    <dimen name="config_rounded_mask_size">112px</dimen>
+    <dimen name="rounded_corner_content_padding">70px</dimen>
+    <dimen name="status_bar_padding_top">2dp</dimen>
 
     <!-- Location on the screen of the center of the volume up/volume down buttons -->
     <dimen name="physical_volume_up_button_center_screen_location_y">550px</dimen>
